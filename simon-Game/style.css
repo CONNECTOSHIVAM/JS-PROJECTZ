@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    color: aqua ;
+    margin: 1rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background: red;
+}
+.teal{
+    background: teal;
+}
+.yellow{
+    background: yellow;
+}
+.midnight{
+    background: midnightblue;
+}
