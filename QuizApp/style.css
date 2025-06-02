@@ -1,0 +1,40 @@
+.header{
+    width: auto;
+    font-size: 3vw;
+    text-align: center;
+    position: inherit;
+    background: #d87093;
+    top: 2%;
+    left: 0%;
+    padding: 2%; 
+    border-radius: 1rem;
+}
+.main {
+    background: rgb(201, 174, 174);
+    justify-items: center;
+    justify-content: center;
+    width: 60%;
+    padding: 3rem;
+    text-align: center;
+    border: 3px solid wheat;
+    position: absolute;
+    margin: 10px 200px;
+    border-radius: 2rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+label:hover{
+    color: rgb(100, 7, 100);
+}
+
+button{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2px;
+    width: 10rem;
+    padding: 21px;
+    background: rgb(185, 74, 185);
+    border-radius: 0 0 2rem 2rem;
+    font-size: 1rem;
+
+}
